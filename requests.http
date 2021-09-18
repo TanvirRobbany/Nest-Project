@@ -12,4 +12,4 @@ Content-Type: application/json
 }
 
 ### Get a Particular Message
-GET http://localhost:3000/messages/5
+GET http://localhost:3000/messages/257
